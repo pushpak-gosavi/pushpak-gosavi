@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android, Flutter**
 
-- 📫 How to reach me **pushpak.gosavi7@gmail.com**
+- 📫 How to reach me **pushpak.gosavi7@gmail.com** 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pushpak-gosavi-b81172184](https://www.linkedin.com/in/pushpak-gosavi-b81172184)
 
