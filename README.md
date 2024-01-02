@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android Jetpack, Mongo DB, and React Native**   
 
-- 👨‍💻 All of my projects are available at [https://pushpak-gosavi.onrender.com/](https://pushpak-gosavi.onrender.com/)           
+- 👨‍💻 All of my projects are available at [https://pushpak-gosavi.onrender.com/](https://pushpak-gosavi.onrender.com/)       
 
 - 💬 Ask me about **Android, Flutter**
 
