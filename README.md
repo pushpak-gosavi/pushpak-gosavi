@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpak-gosavi&label=Profile%20views&color=0e75b6&style=flat" alt="pushpak-gosavi" /> </p>                           
 
-- 🌱 I’m currently learning **Android Jetpack, Mongo DB, and React Native** 
+- 🌱 I’m currently learning **Android Jetpack, Mongo DB, and React Native**
 
 - 👨‍💻 All of my projects are available at [https://pushpak-gosavi.onrender.com/](https://pushpak-gosavi.onrender.com/)       
 
