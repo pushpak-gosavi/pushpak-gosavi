@@ -1,13 +1,13 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://pushpak-gosavi.onrender.com/)
 <h1 align="center">Hi 👋, I'm Pushpak Gosavi.</h1>               
-<h3 align="center">A passionate Mobile Application Developer from India.</h3>                        
+<h3 align="center">A passionate Mobile Application Developer from India.</h3>                   
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">                                 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpak-gosavi&label=Profile%20views&color=0e75b6&style=flat" alt="pushpak-gosavi" /> </p>                           
 
-- 🌱 I’m currently learning **Android Jetpack, Mongo DB, and React Native**
+- 🌱 I’m currently learning **Android Jetpack, Mongo DB, and React Native**                                                                              
 
-- 👨‍💻 All of my projects are available at [https://pushpak-gosavi.onrender.com/](https://pushpak-gosavi.onrender.com/)       
+- 👨‍💻 All of my projects are available at [https://pushpak-gosavi.onrender.com/](https://pushpak-gosavi.onrender.com/)
 
 - 💬 Ask me about **Android, Flutter**
 
