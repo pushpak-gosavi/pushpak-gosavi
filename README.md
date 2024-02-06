@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pushpak-gosavi.onrender.com/](https://pushpak-gosavi.onrender.com/)
 
-- 💬 Ask me about **Android, Flutter** 
+- 💬 Ask me about **Android, Flutter**  
 
 - 📫 How to reach me **pushpak.gosavi7@gmail.com**           
 
